@@ -41,7 +41,7 @@
 	border-right: 1px solid #fff;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: #755; }
 
 #edito
 {
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #111;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
